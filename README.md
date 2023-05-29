@@ -5,8 +5,16 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the github repository.
+
 ### Step 2:
+Create a new Django project
+
+### Step 3:
+Write the needed HTML code.
+
+### step 4:
+Run the Django server and execute the HTML files.
 
 ## Code:
 ### html
@@ -221,7 +229,13 @@ Marley is a nation located beyond the Walls and across the ocean from Paradis Is
 </html>
 ```
 ## Output:
-Include your output screenshot here
+![output](./ouputpics/op1.png)
+![output](./ouputpics/op2.png)
+![output](./ouputpics/annieop.png)
+![output](./ouputpics/cliff.png)
+![output](./ouputpics/arminop.png)
+![output](./ouputpics/marleyp.png)
+![output](./ouputpics/leviop.png)
 
 ## Result:
-Write your result
+Thus the program for Places Around me is executed Successfully.
