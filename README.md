@@ -229,13 +229,14 @@ Marley is a nation located beyond the Walls and across the ocean from Paradis Is
 </html>
 ```
 ## Output:
-![output](./ouputpics/op1.png)
-![output](./ouputpics/op2.png)
-![output](./ouputpics/annieop.png)
-![output](./ouputpics/cliff.png)
-![output](./ouputpics/arminop.png)
-![output](./ouputpics/marleyp.png)
-![output](./ouputpics/leviop.png)
+![op1](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/805839f7-cc3b-4bb5-ad65-bebbae146385)
+![op2](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/343889bd-5ceb-4fcc-8fd4-5fbce11d5d9d)
+![marleyop](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/668b7ad0-b0e5-41f3-8f74-39e789e7e12e)
+![arminop](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/9781e88b-1607-42d7-b853-3e679f0921a4)
+![annieop](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/149a08d5-fa91-4ec8-9f74-1d84f27f96d6)
+![cliff](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/3c3d47b0-ced8-4499-94ff-ddd3769c0ec1)
+![leviop](https://github.com/ASHWINKUMAR2903/places-around-me/assets/119407186/2cd700cf-1a2c-41a1-a2d1-475350e449dc)
+
 
 ## Result:
 Thus the program for Places Around me is executed Successfully.
